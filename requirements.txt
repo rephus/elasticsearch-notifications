@@ -1,0 +1,5 @@
+# Elasticsearch 1.0
+# elasticsearch>=1.0.0,<2.0.0
+
+# Elasticsearch 0.90
+elasticsearch<1.0.0

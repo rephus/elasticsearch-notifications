@@ -1,0 +1,12 @@
+[config]
+notification-email = <your-email>
+
+[gmail]
+user = <your-email>
+password = <your-password>
+
+[es]
+endpoint = <server-ip>
+port = 9200
+time-filter = now-24h
+index = stats

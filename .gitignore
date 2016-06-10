@@ -1,0 +1,4 @@
+config.cfg
+output.log
+*kate-swp
+*.pyc
